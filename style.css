@@ -96,8 +96,6 @@ body {
     transition: 1.2s;
 }
 
-
-
 #default {
     background: #202020;
     border: rgb(12, 0, 255) 3px solid;
@@ -115,7 +113,6 @@ body {
     display: none;
 }
 
-
 @media (max-width: 575px) {
 
     #dark,
@@ -125,10 +122,15 @@ body {
     #danger,
     #warning,
     #secondary {
-        margin: 0;
-        padding: 20px;
-        font-size: 20px;
-        margin-top: 30px;
+        margin: 0 !important;
+        padding: 21px !important;
+        font-size: 51px !important;
+        margin-top: 30px !important;
+        width: 290px !important;
+    }
+
+    #secondary {
+        margin-bottom: 240px !important;
     }
 }
 
@@ -141,10 +143,10 @@ body {
     #danger,
     #warning,
     #secondary {
-        margin: 0;
-        padding: 35px;
-        font-size: 35px;
-        margin-top: 30px;
+        margin: 0 !important;
+        padding: 35px !important;
+        font-size: 35px !important;
+        margin-top: 30px !important;
     }
 }
 
@@ -157,10 +159,10 @@ body {
     #danger,
     #warning,
     #secondary {
-        margin: 0;
-        padding: 50px;
-        font-size: 50px;
-        margin-top: 30px;
+        margin: 0 !important;
+        padding: 45px !important;
+        font-size: 40px !important;
+        margin-top: 30px !important;
     }
 }
 
