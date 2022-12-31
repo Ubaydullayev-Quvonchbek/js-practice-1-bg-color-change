@@ -122,7 +122,7 @@ body {
     #danger,
     #warning,
     #secondary {
-        margin: 0 !important;
+        margin: 0 ;
         padding: 21px !important;
         font-size: 51px !important;
         margin-top: 30px !important;
@@ -143,7 +143,7 @@ body {
     #danger,
     #warning,
     #secondary {
-        margin: 0 !important;
+        margin: 0 ;
         padding: 35px !important;
         font-size: 35px !important;
         margin-top: 30px !important;
@@ -159,7 +159,7 @@ body {
     #danger,
     #warning,
     #secondary {
-        margin: 0 !important;
+        margin: 0 ;
         padding: 45px !important;
         font-size: 40px !important;
         margin-top: 30px !important;
