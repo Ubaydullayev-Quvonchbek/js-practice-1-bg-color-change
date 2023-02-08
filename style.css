@@ -14,7 +14,7 @@ body {
 
 #dark {
     background: #000;
-    border: rgb(12, 0, 255) 3.5px solid;
+    border: transparent 3.5px solid;
     padding: 50px;
     cursor: pointer;
     font-size: 20px;
@@ -26,7 +26,7 @@ body {
 
 #light {
     background: #fff;
-    border: rgb(12, 0, 255) 3.5px solid;
+    border: transparent 3.5px solid;
     padding: 50px;
     cursor: pointer;
     font-size: 20px;
@@ -38,7 +38,7 @@ body {
 
 #info {
     background: #0dcaf0;
-    border: rgb(12, 0, 255) 3.5px solid;
+    border: transparent 3.5px solid;
     padding: 50px;
     cursor: pointer;
     font-size: 20px;
@@ -50,7 +50,7 @@ body {
 
 #success {
     background: #198754;
-    border: rgb(12, 0, 255) 3.5px solid;
+    border: transparent 3.5px solid;
     padding: 50px;
     cursor: pointer;
     font-size: 20px;
@@ -62,7 +62,7 @@ body {
 
 #danger {
     background: #dc3545;
-    border: rgb(12, 0, 255) 3.5px solid;
+    border: transparent 3.5px solid;
     padding: 50px;
     cursor: pointer;
     font-size: 20px;
@@ -74,7 +74,7 @@ body {
 
 #warning {
     background: #ffc107;
-    border: rgb(12, 0, 255) 3.5px solid;
+    border: transparent 3.5px solid;
     padding: 50px;
     cursor: pointer;
     font-size: 20px;
@@ -86,7 +86,7 @@ body {
 
 #secondary {
     background: #6c757d;
-    border: rgb(12, 0, 255) 3.5px solid;
+    border: transparent 3.5px solid;
     padding: 50px;
     cursor: pointer;
     font-size: 20px;
@@ -98,7 +98,7 @@ body {
 
 #default {
     background: #202020;
-    border: rgb(12, 0, 255) 3.5px solid;
+    border: transparent 3.5px solid;
     padding: 50px;
     cursor: pointer;
     font-size: 15px;
