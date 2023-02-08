@@ -1,7 +1,7 @@
 function dclick() {
     document.querySelector('body').style.backgroundColor = "#000";
     document.querySelector('body').style.transition = "1.7s";
-    document.getElementById('dark').style.border = "none";
+    document.getElementById('dark').style.border = "transparent 3.5px solid";
     document.getElementById('light').style.border = "rgb(12, 0, 255) 3.5px solid";
     document.getElementById('info').style.border = "rgb(12, 0, 255) 3.5px solid";
     document.getElementById('success').style.border = "rgb(12, 0, 255) 3.5px solid";
@@ -14,7 +14,7 @@ function dclick() {
 function lclick() {
     document.querySelector('body').style.backgroundColor = "#fff";
     document.querySelector('body').style.transition = "1.7s";
-    document.getElementById('light').style.border = "none";
+    document.getElementById('light').style.border = "transparent 3.5px solid";
     document.getElementById('dark').style.border = "rgb(12, 0, 255) 3.5px solid";
     document.getElementById('info').style.border = "rgb(12, 0, 255) 3.5px solid";
     document.getElementById('success').style.border = "rgb(12, 0, 255) 3.5px solid";
@@ -27,7 +27,7 @@ function lclick() {
 function iclick() {
     document.querySelector('body').style.backgroundColor = "#0dcaf0";
     document.querySelector('body').style.transition = "1.7s";
-    document.getElementById('info').style.border = "none";
+    document.getElementById('info').style.border = "transparent 3.5px solid";
     document.getElementById('light').style.border = "rgb(12, 0, 255) 3.5px solid";
     document.getElementById('dark').style.border = "rgb(12, 0, 255) 3.5px solid";
     document.getElementById('success').style.border = "rgb(12, 0, 255) 3.5px solid";
@@ -40,7 +40,7 @@ function iclick() {
 function sclick() {
     document.querySelector('body').style.backgroundColor = "#198754";
     document.querySelector('body').style.transition = "1.7s";
-    document.getElementById('success').style.border = "none";
+    document.getElementById('success').style.border = "transparent 3.5px solid";
     document.getElementById('light').style.border = "rgb(12, 0, 255) 3.5px solid";
     document.getElementById('info').style.border = "rgb(12, 0, 255) 3.5px solid";
     document.getElementById('dark').style.border = "rgb(12, 0, 255) 3.5px solid";
@@ -53,7 +53,7 @@ function sclick() {
 function dnclick() {
     document.querySelector('body').style.backgroundColor = "#dc3545";
     document.querySelector('body').style.transition = "1.7s";
-    document.getElementById('danger').style.border = "none";
+    document.getElementById('danger').style.border = "transparent 3.5px solid";
     document.getElementById('light').style.border = "rgb(12, 0, 255) 3.5px solid";
     document.getElementById('info').style.border = "rgb(12, 0, 255) 3.5px solid";
     document.getElementById('success').style.border = "rgb(12, 0, 255) 3.5px solid";
@@ -66,7 +66,7 @@ function dnclick() {
 function wclick() {
     document.querySelector('body').style.backgroundColor = "#ffc107";
     document.querySelector('body').style.transition = "1.7s";
-    document.getElementById('warning').style.border = "none";
+    document.getElementById('warning').style.border = "transparent 3.5px solid";
     document.getElementById('light').style.border = "rgb(12, 0, 255) 3.5px solid";
     document.getElementById('info').style.border = "rgb(12, 0, 255) 3.5px solid";
     document.getElementById('success').style.border = "rgb(12, 0, 255) 3.5px solid";
@@ -79,7 +79,7 @@ function wclick() {
 function seclick() {
     document.querySelector('body').style.backgroundColor = "#6c757d";
     document.querySelector('body').style.transition = "1.7s";
-    document.getElementById('secondary').style.border = "none";
+    document.getElementById('secondary').style.border = "transparent 3.5px solid";
     document.getElementById('light').style.border = "rgb(12, 0, 255) 3.5px solid";
     document.getElementById('info').style.border = "rgb(12, 0, 255) 3.5px solid";
     document.getElementById('success').style.border = "rgb(12, 0, 255) 3.5px solid";
@@ -92,7 +92,7 @@ function seclick() {
 function defclick() {
     document.querySelector('body').style.backgroundColor = "#202020";
     document.querySelector('body').style.transition = ".1s";
-    document.getElementById('default').style.border = "none";
+    document.getElementById('default').style.border = "transparent 3.5px solid";
     document.getElementById('default').style.display = "none";
     document.getElementById('light').style.border = "rgb(12, 0, 255) 3.5px solid";
     document.getElementById('info').style.border = "rgb(12, 0, 255) 3.5px solid";
