@@ -15,9 +15,9 @@ body {
 #dark {
     background: #000;
     border: rgb(12, 0, 255) 3px solid;
-    padding: 30px;
+    padding: 50px;
     cursor: pointer;
-    font-size: 30px;
+    font-size: 20px;
     color: #fff;
     text-align: center;
     margin-top: 150px;
@@ -27,9 +27,9 @@ body {
 #light {
     background: #fff;
     border: rgb(12, 0, 255) 3px solid;
-    padding: 30px;
+    padding: 50px;
     cursor: pointer;
-    font-size: 30px;
+    font-size: 20px;
     color: #000;
     text-align: center;
     margin-top: 150px;
@@ -39,9 +39,9 @@ body {
 #info {
     background: #0dcaf0;
     border: rgb(12, 0, 255) 3px solid;
-    padding: 30px;
+    padding: 50px;
     cursor: pointer;
-    font-size: 30px;
+    font-size: 20px;
     color: #fff;
     text-align: center;
     margin-top: 150px;
@@ -51,9 +51,9 @@ body {
 #success {
     background: #198754;
     border: rgb(12, 0, 255) 3px solid;
-    padding: 30px;
+    padding: 50px;
     cursor: pointer;
-    font-size: 30px;
+    font-size: 20px;
     color: #fff;
     text-align: center;
     margin-top: 150px;
@@ -63,9 +63,9 @@ body {
 #danger {
     background: #dc3545;
     border: rgb(12, 0, 255) 3px solid;
-    padding: 30px;
+    padding: 50px;
     cursor: pointer;
-    font-size: 30px;
+    font-size: 20px;
     color: #fff;
     text-align: center;
     margin-top: 150px;
@@ -75,9 +75,9 @@ body {
 #warning {
     background: #ffc107;
     border: rgb(12, 0, 255) 3px solid;
-    padding: 30px;
+    padding: 50px;
     cursor: pointer;
-    font-size: 30px;
+    font-size: 20px;
     color: #fff;
     text-align: center;
     margin-top: 150px;
@@ -87,9 +87,9 @@ body {
 #secondary {
     background: #6c757d;
     border: rgb(12, 0, 255) 3px solid;
-    padding: 30px;
+    padding: 50px;
     cursor: pointer;
-    font-size: 30px;
+    font-size: 20px;
     color: #fff;
     text-align: center;
     margin-top: 150px;
@@ -99,9 +99,9 @@ body {
 #default {
     background: #202020;
     border: rgb(12, 0, 255) 3px solid;
-    padding: 30px;
+    padding: 50px;
     cursor: pointer;
-    font-size: 25px;
+    font-size: 15px;
     color: #fff;
     text-align: center;
     margin-top: 150px;
